@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-identity",
+  "name": "io.github.itsryanarmani/agentic-identity",
   "description": "People, agents, and the access they share: delegation, invites, links, and an audit trail.",
   "version": "0.12.1",
   "repository": {
